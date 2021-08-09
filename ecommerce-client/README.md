@@ -32,6 +32,26 @@ http://localhost:8095/api/userprofiles
 ### Swagger
 http://localhost:8095/swagger-ui.html
 
+### database
+
+Install Pgadmin and postgresql
+
+set password 
+
+### create databse
+
+Create table query get it from database.txt file
+
+### Application.properties
+
+Give database username and password in application.properties file to connect database
+
+
+
+
+
+
+
 
 
 

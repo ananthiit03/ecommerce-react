@@ -1,0 +1,12 @@
+
+Table creation
+
+CREATE TABLE profile (
+    id INT GENERATED ALWAYS AS IDENTITY,
+    name VARCHAR NOT NULL,
+	username VARCHAR NOT NULL,emailid VARCHAR NOT NULL, address VARCHAR NOT NULL
+	
+ 
+);
+
+database name : ecommerce
