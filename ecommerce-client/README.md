@@ -24,13 +24,16 @@ URl: api/userprofiles
 ### Gradle refresh gradle project
 ### Fix project setup
 
+### Import project into STS
+Open STS or Eclipse import project from file 
+
 EcommerceProjectApplication.java Project right click runas JavaApplication / springboot application
 
-### 
-http://localhost:8095/api/userprofiles
+###  port number get it from terminal server starts : 8080
+http://localhost:8080/api/userprofiles
 
 ### Swagger
-http://localhost:8095/swagger-ui.html
+http://localhost:8080/swagger-ui.html
 
 ### database
 
