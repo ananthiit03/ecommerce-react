@@ -2,6 +2,10 @@
 
 Git clone https://github.com/ananthiit03/ecommerce-react.git from repository
 
+### `cd ecommerce-react`
+### `git pull`
+
+
 ## Install dependecies / packages
 
 ### `npm install`
