@@ -19,3 +19,19 @@ will get the profile information from server.
 URl: api/userprofiles
 
 
+### SERVER
+
+### Gradle refresh gradle project
+### Fix project setup
+
+EcommerceProjectApplication.java Project right click runas JavaApplication / springboot application
+
+### 
+http://localhost:8095/api/userprofiles
+
+### Swagger
+http://localhost:8095/swagger-ui.html
+
+
+
+
